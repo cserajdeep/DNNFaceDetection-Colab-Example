@@ -1,4 +1,4 @@
- Download the following pretrained model for face detection. However, one can use own model or other pretrained model to detect faces.
+ Download the following pre-trained model for face detection. However, one can use own model or other pre-trained models to detect faces.
  
  ```ruby
 # initialize the Haar Cascade face detection model
